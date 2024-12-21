@@ -19,7 +19,7 @@ con.connect(function (err) {
 
 router.post("/", async (req, res) => {
   const url = "https://api.groq.com/openai/v1/chat/completions";
-  const api_key = "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";
+  const api_key = "your_groq_api_key";
   const prompt = `
   You are a data parser. Extract structured information from the following recipe text into the following JSON format:
     {
