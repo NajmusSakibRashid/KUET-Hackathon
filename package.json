@@ -1,0 +1,14 @@
+{
+  "name": "kuet-hackathon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Najmus Sakib Rashid",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express.js": "^1.0.0"
+  }
+}
