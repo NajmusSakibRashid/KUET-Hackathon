@@ -9,6 +9,10 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "express.js": "^1.0.0"
+    "axios": "^1.7.9",
+    "express.js": "^1.0.0",
+    "groq-sdk": "^0.9.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.11.5"
   }
 }
